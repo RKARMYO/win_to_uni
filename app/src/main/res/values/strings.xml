@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Win 2 Uni</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- ads code -->
+    <!-- test banner code ca-app-pub-3940256099942544/6300978111 -->
+    <string name="banner1">ca-app-pub-4224641533746813/3584629789</string>
+    <!-- test  interstitials ca-app-pub-3940256099942544/1033173712 -->
+    <string name="interstitial1">ca-app-pub-3940256099942544/1033173712</string>
+</resources>
